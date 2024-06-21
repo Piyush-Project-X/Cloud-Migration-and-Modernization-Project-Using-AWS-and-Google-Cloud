@@ -4,7 +4,7 @@
 
 **Cloud Computing Project using AWS and Google Cloud**
 
-*Please note: Due to confidentiality, I cannot share the code for this project developed for a local business. However, I have provided a comprehensive explanation of my work and methodologies.*
+*Please note: Due to confidentiality, I cannot share the code for this project developed for a reason. However, I have provided a comprehensive explanation of my work and methodologies.*
 
 ## Objective
 
